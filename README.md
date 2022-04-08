@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/71606159/162441869-609821ef-fd72-4878-8613-d505aa6871c4.jpg" width="100%" height="350px"/>
 <h1 align="center">Hi 👋, I'm Paulo Fernandes</h1>
 <h3 align="center">Soy un backend apasionado</h3>
 
