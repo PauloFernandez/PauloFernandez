@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **PHP y Java**
 
-- 📫 How to reach me **paulofernandez1981@hotmail.com**
+- 📫 How to reach me **pfernandez1626@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
