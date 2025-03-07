@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="left">Herramientas:</h3>
-<p align="left" style="display: flex; gap: 15">
+<p align="center">
     <a href="https://laravel.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
     </a>
@@ -29,5 +29,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
 </p>
-
-
