@@ -1,24 +1,38 @@
 <img src="https://user-images.githubusercontent.com/71606159/162441869-609821ef-fd72-4878-8613-d505aa6871c4.jpg" width="100%" height="350px"/>
-<h1 align="center">Hola 👋, Soy Paulo Fernández</h1>
-<h3 align="center">Soy un backend apasionado por crear soluciones escalables y eficientes utilizando tecnologías como Laravel y PHP.</h3>
+# 👋 Hola, soy Paulo Fernández
 
+Soy un desarrollador web con especialización en **backend**, enfocado en crear soluciones escalables, eficientes y bien estructuradas. Tengo experiencia trabajando con **Laravel**, **PHP**, **MySQL** y **MariaDB**. Mi principal objetivo es ofrecer código limpio, eficiente y de alta calidad, y siempre estoy buscando nuevas formas de resolver problemas complejos.
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://paulofernandez.github.io/porfolio/](https://paulofernandez.github.io/porfolio/)
+## 💼 ¿Quién soy?
 
-- 💬 Pregúntame sobre **Laravel-PHP**
+Soy un desarrollador autodidacta que disfruta enfrentándose a nuevos desafíos. He completado cursos en plataformas como **Udemy**, **Ademass** y **YouTube**, y tengo una certificación en **Git** y **GitHub**, lo que me permite gestionar y versionar proyectos de forma efectiva. Me apasiona crear **entornos de desarrollo escalables** y **eficientes** utilizando herramientas como **Docker**. Además, tengo experiencia en **pruebas automatizadas** dentro del ecosistema Laravel, lo que me permite garantizar la estabilidad y calidad del código.
 
-- 📫 Mi correo **paulofernandez1981@hotmail.com**
+Mi objetivo es continuar creciendo en el ámbito del desarrollo **back-end** y contribuir a proyectos innovadores y desafiantes.
 
-<h3 align="left">Conéctate conmigo:</h3>
+## 📚 Mis habilidades y tecnologías
+
+- **Back-end Development**: Laravel, PHP
+- **Versionado de código**: Git, GitHub
+- **Pruebas automatizadas**: PHPUnit (Laravel)
+- **Bases de datos**: MySQL, MariaDB
+- **Contenedores**: Docker
+
+## 🚀 Proyectos
+
+Puedes ver todos mis proyectos en mi [portafolio en línea](https://paulofernandez.github.io/porfolio/), donde encontrarás ejemplos de mis trabajos con **Laravel** y otras tecnologías.
+
+## 📬 Conéctate conmigo
+
+- **Correo electrónico**: [paulofernandez1981@hotmail.com](mailto:paulofernandez1981@hotmail.com)
+- **LinkedIn**: [Paulo Fernández](https://linkedin.com/in/paulofernández)
+
+## 🛠️ Herramientas que uso
+
 <p align="left">
-<a href="https://linkedin.com/in/paulo fernández" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo fernández" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </p>
 
-<h3 align="left">Herramientas:</h3>
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</p>
