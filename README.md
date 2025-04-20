@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/71606159/162441869-609821ef-fd72-4878-8613-d505aa6871c4.jpg" width="100%" height="350px"/>
+<img src="https://github.com/PauloFernandez/Portfolio/blob/main/img/BannerPauloDev.png" width="100%" height="350px"/>
 # 👋 Hola, soy Paulo Fernández
 
 Soy un desarrollador web con especialización en **backend**, enfocado en crear soluciones escalables, eficientes y bien estructuradas. Tengo experiencia trabajando con **Laravel**, **PHP**, **MySQL** y **MariaDB**. Mi principal objetivo es ofrecer código limpio, eficiente y de alta calidad, y siempre estoy buscando nuevas formas de resolver problemas complejos.
